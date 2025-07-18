@@ -19,6 +19,7 @@ public class Zadatak1 {
 				System.out.println("Unesite clan matrica na poziciju "+"["+i+"]"+"["+j+"]");
 				matrica[i][j]=scan.nextInt();
 				System.out.println("Nesto novo");
+				System.out.println("Najnovije");
 			}
 		}
 		int zbir =0;
