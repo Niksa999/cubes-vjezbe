@@ -18,7 +18,7 @@ public class Zadatak1 {
 			for(int j=0;j<matrica[i].length;j++) {
 				System.out.println("Unesite clan matrica na poziciju "+"["+i+"]"+"["+j+"]");
 				matrica[i][j]=scan.nextInt();
-				
+				System.out.println("Nesto novo");
 			}
 		}
 		int zbir =0;
