@@ -20,6 +20,7 @@ public class Zadatak1 {
 				matrica[i][j]=scan.nextInt();
 				System.out.println("Nesto novo");
 				System.out.println("Najnovije");
+				System.out.println("Izmjena");
 			}
 		}
 		int zbir =0;
